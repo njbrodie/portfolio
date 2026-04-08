@@ -2,7 +2,7 @@
 
 # Projects
 ## Power System State Estimation
-[Project Report](main/SML_project.pdf)
+[Project Report](SML_project.pdf)
 
 ## Book Recommendation System
 
