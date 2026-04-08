@@ -15,3 +15,4 @@
 [Project Poster](https://njbrodie.github.io/DSC180B-B03/src/B03-2.pdf)
 
 ## TextEasy: Auto-Translating Texting WebApp
+[Video Demo](https://youtu.be/A2ylFcPZo2E)
