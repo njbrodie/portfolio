@@ -3,7 +3,7 @@
 # Projects
 ## Real-Time Drug Crystallinity Modeling Program
 Built a real-time machine learning system using SVMs on Raman spectroscopy data to predict drug crystallinity during pharmaceutical formulation.  
-Enabled live decision support for lab technicians, improving efficiency in identifying optimal stopping points during research.
+Enabled live decision support for lab technicians, improving efficiency in identifying optimal stopping points during research.\
 **Code and report unavailable due to proprietary data**
 
 ## Power System State Estimation
