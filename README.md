@@ -24,5 +24,5 @@ Evaluated model performance using RMSE and similarity metrics, finding that hybr
 [Project Report](https://book-rex.streamlit.app/)
 
 ## TextEasy: Auto-Translating Texting WebApp
-Utilized OpenAI API to build a web application enabling real-time multilingual messaging using automated translation and the ability to create accounts using Google Firebase.
+Utilized OpenAI API to build a web application enabling real-time multilingual messaging using automated translation and the ability to create accounts using Google Firebase.\
 [Video Demo](https://youtu.be/A2ylFcPZo2E)
