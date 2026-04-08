@@ -6,7 +6,7 @@ Developed a Graph Neural Network (GNN) to estimate voltage magnitude and phase a
 Modeled the grid as a heterogeneous graph and trained on simulated data (SMART-DS), enabling fast, scalable alternatives to traditional power flow solvers.\
 [Project Report](materials/SML_project.pdf)
 
-## Book Recommendation System
+## Book Recommendation Model Comparison
 Conducted a comparative analysis of collaborative filtering, content-based, hybrid KNN, and neural network models for personalized book recommendations using a large-scale dataset (~3M reviews).
 Evaluated model performance using RMSE and similarity metrics, finding that hybrid approaches achieved the best accuracy, highlighting tradeoffs between scalability and predictive power.\
 [Project Report](https://book-rex.streamlit.app/)
