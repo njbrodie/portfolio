@@ -3,7 +3,7 @@
 # Projects
 ## Power System State Estimation
 Developed a Graph Neural Network to estimate voltage magnitude and phase angles in electrical distribution systems with sparse and noisy measurements. 
-Modeled the grid as a heterogeneous graph and trained on simulated data (OpenDSS), enabling fast, scalable alternatives to traditional power flow solvers.
+Modeled the grid as a heterogeneous graph and trained on simulated data (OpenDSS), enabling fast, scalable alternatives to traditional power flow solvers.\
 [Project Report](SML_project.pdf)
 
 ## Book Recommendation System
