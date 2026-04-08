@@ -4,7 +4,7 @@
 ## Power System State Estimation
 Developed a Graph Neural Network (GNN) to estimate voltage magnitude and phase angles in electrical distribution systems with sparse and noisy measurements. 
 Modeled the grid as a heterogeneous graph and trained on simulated data (SMART-DS), enabling fast, scalable alternatives to traditional power flow solvers.\
-[Project Report](SML_project.pdf)
+[Project Report](materials/SML_project.pdf)
 
 ## Book Recommendation System
 Conducted a comparative analysis of collaborative filtering, content-based, hybrid KNN, and neural network models for personalized book recommendations using a large-scale dataset (~3M reviews).
